@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Sonido Sur",
+    "slug": "sonido-sur-inscripcion",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#101116"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#101116"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
